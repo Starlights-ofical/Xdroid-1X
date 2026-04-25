@@ -30,8 +30,17 @@ Any unauthorized use, reproduction, or distribution of this code will be conside
 
 ---
 
+## ⚠️ Disclaimer of Liability (Sorumluluk Reddi)
+This software is provided "AS IS", without warranty of any kind, express or implied. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software. 
+
+*Use of this code is entirely at your own risk.**
+
+---
+
 ## 📩 Contact
 If you are interested in using this code for a specific project or wish to obtain a commercial license, please contact the author:
 
 * **GitHub:** @Starlights-ofical
 * **Status:** Individual Developer
+
+* ---
